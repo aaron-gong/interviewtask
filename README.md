@@ -8,7 +8,7 @@ Tasked with presenting a subject of my choice with the included data.
 2. Arrived at the scenario of creating a loanbook overview at the October 2021 Snapshot, for a potential buyer or investor who didn't know much about the business.
 3. Coded key statistics and visualised important demographic information. 
 4. Calculated 1 year loanbook growth, arguably most important visualisation.
-5. Put together dashboard.
+5. Put together dashboard in Tableau: https://public.tableau.com/app/profile/aaron.gong2610/viz/LoanbookOverviewforWisr/Dashboard1?publish=yes
 
 estimated time: ~2 hrs to complete
 
