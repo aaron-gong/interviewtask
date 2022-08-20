@@ -5,10 +5,10 @@ Interview Task for Wisr
 Tasked with presenting a subject of my choice with the included data.
 
 1. Brainstormed story I wanted to tell with the data. 
-2. Arrived at the scenario of creating a loanbook overview at the October 2021 Snapshot, for a potential buyer or investor with no prior knowledge of the business. Dashboard would provide a holistic view of the loanbook. 
-3. Coded key statistics and visualised important demographic information in SQL & Tableau 
+2. Arrived at the scenario of creating a loanbook overview at the October 2021 Snapshot, for a potential buyer or investor with no prior knowledge of the business.
+3. Calculated key statistics and visualised important demographic information in SQL & Tableau 
 4. Calculated 1 year loanbook growth, arguably most important visualisation thru SQL.
-5. Put together dashboard in Tableau: https://public.tableau.com/app/profile/aaron.gong2610/viz/LoanbookOverviewforWisr/Dashboard1?publish=yes
+5. Put together a dashboard in Tableau: https://public.tableau.com/app/profile/aaron.gong2610/viz/LoanbookOverviewforWisr/Dashboard1?publish=yes
 
 estimated time: ~2 hrs to complete
 
