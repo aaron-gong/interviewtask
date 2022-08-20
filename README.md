@@ -22,11 +22,11 @@ Tasked with finding 30+@3 for credit score and month.
 estimated time: ~2 hrs to complete
 
 
-# Files included.
+# Files included
 
-The 30+@3 Analysis.ipynb and the WISR interview question.sql files uploaded relate to Q5: Calculate 30+@3 by month and by credit score.
+The "30+@3 Analysis.ipynb" and the "WISR interview question.sql" files uploaded relate to "Q5: Calculate 30+@3 by month and by credit score".
 
-The Calculations for Tableau Dashboard.sql file relates to the Tableau dashboard, and the dashboard is linked above. 
+The "Calculations for Tableau Dashboard.sql" file relates to the Tableau dashboard, and the dashboard is linked above. 
 
 
-Thanks for reading!
+Thanks so much for reading!
