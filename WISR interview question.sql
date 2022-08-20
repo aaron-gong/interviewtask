@@ -14,8 +14,9 @@ from (
 		where Delinquency >= 2 and loan_month_duration <=3) e
 
 -- datediff was used along with a window function to calculate how long a loan was active for. Used Snapshot date minus minimum snapshot date, output is in months. 
--- from there parameters of Deliquendcy >= 2 and months < 3 were used to calculate 30+@3
+-- from there parameters of Deliquency >= 2 and months < 3 were used to calculate 30+@3
 -- assumed that the first snapshot date is the month of the loan settling, there aren't any other useable dates in the data. 
+-- end result was 28 unique customers
 
 
 select distinct RecordID as "30+@3 customers" into "30+@3"
